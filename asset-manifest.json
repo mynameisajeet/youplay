@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/youplay/static/css/main.96e07d93.css",
-    "main.js": "/youplay/static/js/main.1c3f569f.js",
+    "main.css": "/youplay/static/css/main.d75b1d40.css",
+    "main.js": "/youplay/static/js/main.474d7389.js",
     "static/js/453.d0cb8597.chunk.js": "/youplay/static/js/453.d0cb8597.chunk.js",
     "index.html": "/youplay/index.html",
-    "main.96e07d93.css.map": "/youplay/static/css/main.96e07d93.css.map",
-    "main.1c3f569f.js.map": "/youplay/static/js/main.1c3f569f.js.map",
+    "main.d75b1d40.css.map": "/youplay/static/css/main.d75b1d40.css.map",
+    "main.474d7389.js.map": "/youplay/static/js/main.474d7389.js.map",
     "453.d0cb8597.chunk.js.map": "/youplay/static/js/453.d0cb8597.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96e07d93.css",
-    "static/js/main.1c3f569f.js"
+    "static/css/main.d75b1d40.css",
+    "static/js/main.474d7389.js"
   ]
 }
